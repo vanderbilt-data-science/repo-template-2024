@@ -1,6 +1,6 @@
-# Repository Template
+# Repository Template - Project Name Here
 
-# Quick navigation
+## Quick navigation
 [Background](#background)  
 [Data](#data)  
 [Models](#models)  
@@ -10,31 +10,31 @@
 [Resources](#resources)  
 [Contact](#contact-info)
 
-# Goal
+## Goal
 
 Provide a clearly defined goal for the project and what this repository contains. Outline what the final deliverable is and how it can be accessed.
 
-# Background  
+## Background  
 
 Provide detailed background information about the project. Readers should be able to have a clear understanding of the goals and methods used. This section should also give the reader instructions on how to navigate the repository. 
 
-# Data
+## Data
 
 Mention what data is being used for the project and where it is stored. Mention any data privacy concerns. 
 
-# Models
+## Models
 
 Mention what models are being used or developed as part of the project. Provide information on how to use these models (link to HuggingFace etc.)
 
-# Timeline
+## Timeline
 
 Outline an estimated timeline for the project. 
 
-# Repo Structure 
+## Repo Structure 
 
 Provide details on how readers can use the repository to replicate your results, run any final deliverables like apps or inference models that you may have trained/fine-tuned. Ensure that the repository is well structued and folders are named appropriately. 
 
-# Project logistics
+## Project logistics
 
 **Sprint planning**:  
 
@@ -50,7 +50,7 @@ Provide details on how readers can use the repository to replicate your results,
 
 **Slack channel**: 
 
-# Resources 
+## Resources 
 
 Provide any useful resources to get readers up to speed with the project here. 
 
@@ -63,6 +63,6 @@ Provide any useful resources to get readers up to speed with the project here.
 * **Git tutorials**: [Simple Guide](https://rogerdudler.github.io/git-guide/), [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 * **ACCRE how-to guides**: [DSI How-tos](https://github.com/vanderbilt-data-science/how-tos)  
 
-# Contact Info
+## Contact Info
 
 Provide contact information of Project Lead, Principal Investigators, and Team Members.
