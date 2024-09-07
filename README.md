@@ -32,7 +32,7 @@ Outline an estimated timeline for the project.
 
 ## Repo Structure 
 
-Provide details on how readers can use the repository to replicate your results, run any final deliverables like apps or inference models that you may have trained/fine-tuned. Ensure that the repository is well structued and folders are named appropriately. 
+Provide details on how readers can use the repository to replicate your results, run any final deliverables like apps or inference models that you may have trained/fine-tuned. Ensure that the repository is well structued and folders are named appropriately. Follow best practices (Notebook naming convention {00s for templates, 10s for data loading and prep, 20s for exploratory analysis, 30s for feature engineering, 40s for model development/training, 50s for evaluation and inference})
 
 ## Project logistics
 
